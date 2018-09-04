@@ -1,0 +1,6 @@
+# Grading
+
+Quizzes        -  ungraded
+Labs/Homework  - 50%
+Final Exam     - 50%
+
