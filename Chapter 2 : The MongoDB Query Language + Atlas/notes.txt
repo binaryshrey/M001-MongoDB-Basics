@@ -1,0 +1,7 @@
+MongoDB query Language
+
+CRUD operations
+
+Mongo Shell(MongoDB text-based client)
+
+
